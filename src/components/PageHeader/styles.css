@@ -1,0 +1,14 @@
+.page-header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.page-header h1 {
+  text-transform: uppercase;
+  color: var(--color-title-in-primary);
+}
