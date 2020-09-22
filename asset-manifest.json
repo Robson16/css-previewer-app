@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/css-previewer-app/static/css/main.f1154b94.chunk.css",
+    "main.js": "/css-previewer-app/static/js/main.2c1509d1.chunk.js",
+    "main.js.map": "/css-previewer-app/static/js/main.2c1509d1.chunk.js.map",
+    "runtime-main.js": "/css-previewer-app/static/js/runtime-main.a3876575.js",
+    "runtime-main.js.map": "/css-previewer-app/static/js/runtime-main.a3876575.js.map",
+    "static/js/2.a0283822.chunk.js": "/css-previewer-app/static/js/2.a0283822.chunk.js",
+    "static/js/2.a0283822.chunk.js.map": "/css-previewer-app/static/js/2.a0283822.chunk.js.map",
+    "index.html": "/css-previewer-app/index.html",
+    "precache-manifest.125902b0ac11d2f4eaf8921438a3d860.js": "/css-previewer-app/precache-manifest.125902b0ac11d2f4eaf8921438a3d860.js",
+    "service-worker.js": "/css-previewer-app/service-worker.js",
+    "static/css/main.f1154b94.chunk.css.map": "/css-previewer-app/static/css/main.f1154b94.chunk.css.map",
+    "static/js/2.a0283822.chunk.js.LICENSE.txt": "/css-previewer-app/static/js/2.a0283822.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3876575.js",
+    "static/js/2.a0283822.chunk.js",
+    "static/css/main.f1154b94.chunk.css",
+    "static/js/main.2c1509d1.chunk.js"
+  ]
+}
