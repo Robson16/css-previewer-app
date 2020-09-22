@@ -1,13 +1,13 @@
 import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 
 import BorderRadius from "./pages/BorderRadius";
 
 function Routes() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Route path="/" exact component={BorderRadius} />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
